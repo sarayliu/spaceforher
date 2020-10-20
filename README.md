@@ -1,5 +1,4 @@
 # spaceforher
-Best Gender Equality Hack at 2020 Hacks of Kindness Hackathon.
 This repo contains all the files from the src folder of the web app. 
 App.js contains the content of the main page. 
 MenuBar.js contains the content of the sidebar and incorporates the App.js content in.
